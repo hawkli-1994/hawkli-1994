@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Hawkli!;Welcome%20to%20my%20GitHub%20Profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Hawkli!;WWelcome%20to%20my%20GitHub%20Profile!&center=true&size=30">
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | Cloud Native Enthusiast | Open Source Contributor</h3>
