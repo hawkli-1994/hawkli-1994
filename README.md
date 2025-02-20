@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
   <img src="https://img.shields.io/github/followers/hawkli-1994?style=social" alt="followers">
+  <img src="https://img.shields.io/github/stars/hawkli-1994?style=social" alt="stars">
 </p>
 
 ### 👨‍💻 About Me
