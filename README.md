@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | Cloud Native Enthusiast | Open Source Contributor</h3>
