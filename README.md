@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on cloud-native applications and microservices
 - 🌱 I'm passionate about DevOps, Kubernetes, and distributed systems
 - 💡 I love exploring new technologies and contributing to open source
-- 📫 How to reach me: [Your Email or LinkedIn]
+-  How to reach me: [![Email](https://img.shields.io/badge/Email-hawkli--1994@users.noreply.github.com-blue?style=flat-square&logo=gmail)](mailto:hawkli-1994@users.noreply.github.com)
 
 ### 🛠️ Tech Stack
 
