@@ -15,7 +15,7 @@
                           margin: 20px 0;
                           position: relative;
                           clip-path: polygon(0 15%, 15% 0, 85% 0, 100% 15%, 100% 85%, 85% 100%, 15% 100%, 0 85%);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Cloud+Native+Enthusiast+%7C+Open+Source+Contributor" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=1200&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Cloud+Native+Enthusiast+%7C+Open+Source+Contributor" alt="Title" />
 </div>
 
 <div align="center">
