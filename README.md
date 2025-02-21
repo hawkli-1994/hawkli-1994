@@ -73,30 +73,33 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-  <div style="background: linear-gradient(45deg, #000000, #1a1a1a);
-              border: 2px solid #F0DB4F;
+  <div style="background: linear-gradient(135deg, #000000, #333333);
+              border: 2px solid #FFD700;
               padding: 20px;
               position: relative;
-              clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=F0DB4F&icon_color=F0DB4F&text_color=F0DB4F&bg_color=000000"/>
+              clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+              box-shadow: 0 0 10px #FFD700, inset 0 0 20px #FF4500;">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FF4500&text_color=FFD700&bg_color=000000"/>
   </div>
   
-  <div style="background: linear-gradient(45deg, #000000, #1a1a1a);
-              border: 2px solid #F0DB4F;
+  <div style="background: linear-gradient(135deg, #000000, #333333);
+              border: 2px solid #FFD700;
               padding: 20px;
               position: relative;
-              clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&hide_border=true&theme=dark&title_color=F0DB4F&text_color=F0DB4F&bg_color=000000"/>
+              clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+              box-shadow: 0 0 10px #FFD700, inset 0 0 20px #FF4500;">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&hide_border=true&theme=react&title_color=FFD700&text_color=FFD700&bg_color=000000"/>
   </div>
 </div>
 
-<div align="center" style="background: linear-gradient(45deg, #000000, #1a1a1a);
-                          border: 2px solid #F0DB4F;
+<div align="center" style="background: linear-gradient(135deg, #000000, #333333);
+                          border: 2px solid #FFD700;
                           padding: 20px;
                           margin: 20px 0;
                           position: relative;
-                          clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&hide_border=true&background=000000&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F&sideLabels=F0DB4F&currStreakNum=F0DB4F&sideNums=F0DB4F&dates=F0DB4F" alt="streak-stats"/>
+                          clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+                          box-shadow: 0 0 10px #FFD700, inset 0 0 20px #FF4500;">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&hide_border=true&background=000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=FFD700" alt="streak-stats"/>
 </div>
 
 ### 🏆 GitHub Trophies
