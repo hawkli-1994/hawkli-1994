@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+I'm+Hawkli!;Cyberpunk+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=700&height=80&lines=Hello%2C+I'm+Hawkli!;Cyberpunk+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=FF4500&background=000000&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+|+Cloud+Native+Enthusiast+|+Open+Source+Contributor" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=FF4500&background=000000&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Cloud+Native+Enthusiast+%7C+Open+Source+Contributor" alt="Title" />
 </div>
 
 <div align="center">
@@ -12,14 +12,7 @@
   <img src="https://img.shields.io/github/stars/hawkli-1994?style=social" alt="stars">
 </div>
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FFD700&background=000000&vCenter=true&width=120&height=20&lines=About+Me" alt="About Me" /> 🚀
-
-🌟 I'm currently working on cloud-native applications and microservices.  
-🌟 I'm passionate about DevOps, Kubernetes, and distributed systems.  
-🌟 I love exploring new technologies and contributing to open source.  
-🌟 How to reach me: <a href="mailto:hawkli-1994@outlook.com"><img src="https://img.shields.io/badge/Email-hawkli--1994@outlook.com-FFD700?style=flat-square&logo=gmail" alt="Email" /></a>
-
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FFD700&background=000000&vCenter=true&width=120&height=20&lines=Tech+Stack" alt="Tech Stack" /> 🛠️
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FFD700&background=000000&vCenter=true&width=150&height=20&lines=Tech+Stack" alt="Tech Stack" /> 🛠️
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFD700&color=000000" />
