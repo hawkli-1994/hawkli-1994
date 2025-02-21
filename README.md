@@ -1,122 +1,42 @@
 <div align="center">
-  <div style="background: linear-gradient(45deg, #000000, #1a1a1a);
-              border: 2px solid #F0DB4F;
-              padding: 20px;
-              margin: 20px 0;
-              position: relative;
-              clip-path: polygon(0 15%, 15% 0, 85% 0, 100% 15%, 100% 85%, 85% 100%, 15% 100%, 0 85%);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=5000&color=FFD700&background=000000&center=true&vCenter=true&width=440&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+Cyberpunk+2077+Profile!" alt="Cyberpunk Typing SVG" />
 </div>
 
-<div align="center" style="background: linear-gradient(45deg, #000000, #1a1a1a);
-                          border: 2px solid #F0DB4F;
-                          padding: 20px;
-                          margin: 20px 0;
-                          position: relative;
-                          clip-path: polygon(0 15%, 15% 0, 85% 0, 100% 15%, 100% 85%, 85% 100%, 15% 100%, 0 85%);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=1200&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Cloud+Native+Enthusiast+%7C+Open+Source+Contributor" alt="Title" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=F0DB4F&style=flat" alt="profile-views">
-  <img src="https://img.shields.io/github/followers/hawkli-1994?style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/hawkli-1994?style=social" alt="stars">
-</div>
-
-### 👨‍💻 About Me
-
-<div align="left" style="border: 2px solid #F0DB4F; padding: 20px; border-radius: 10px; background-color: #000000;">
-
-- 🔭 I'm currently working on cloud-native applications and microservices
-- 🌱 I'm passionate about DevOps, Kubernetes, and distributed systems
-- 💡 I love exploring new technologies and contributing to open source
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-hawkli--1994@outlook.com-F0DB4F?style=flat-square&logo=gmail)](mailto:hawkli-1994@outlook.com)
-
+### 🚀 About Me
+<div style="color: #FFD700; background: #000; padding: 20px; border: 2px solid #FF4500; box-shadow: 0 0 10px #FF4500;">
+  - 🔭 Working on cloud-native applications and microservices<br>
+  - 🌱 Passionate about DevOps, Kubernetes, and distributed systems<br>
+  - 💡 Exploring new technologies and contributing to open source<br>
+  - 📫 Reach me at: <a href="mailto:hawkli-1994@outlook.com" style="color: #FFD700;">hawkli-1994@outlook.com</a>
 </div>
 
 ### 🛠️ Tech Stack
-
-<details>
-<summary>Click to expand!</summary>
-
-#### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-#### Database & Cache
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-</details>
-
-### 📊 GitHub Stats
-
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-  <div style="background: linear-gradient(135deg, #000000, #333333);
-              border: 2px solid #FFD700;
-              padding: 20px;
-              position: relative;
-              clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
-              box-shadow: 0 0 10px #FFD700, inset 0 0 20px #FF4500;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD700&icon_color=FF4500&text_color=FFD700&bg_color=000000"/>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #000000, #333333);
-              border: 2px solid #FFD700;
-              padding: 20px;
-              position: relative;
-              clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
-              box-shadow: 0 0 10px #FFD700, inset 0 0 20px #FF4500;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&hide_border=true&theme=react&title_color=FFD700&text_color=FFD700&bg_color=000000"/>
-  </div>
+<div style="color: #FFD700; background: #000; padding: 20px; border: 2px solid #FF4500; box-shadow: 0 0 10px #FF4500;">
+  - Languages: Python, JavaScript, TypeScript, Go, Rust<br>
+  - Frontend: React, Vue.js, Next.js<br>
+  - Backend: Node.js, Django, Flask<br>
+  - Database & Cache: PostgreSQL, MySQL, Redis<br>
+  - DevOps & Cloud: Docker, Kubernetes, AWS, GCP
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #000000, #333333);
-                          border: 2px solid #FFD700;
-                          padding: 20px;
-                          margin: 20px 0;
-                          position: relative;
-                          clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
-                          box-shadow: 0 0 10px #FFD700, inset 0 0 20px #FF4500;">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&hide_border=true&background=000000&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=FFD700" alt="streak-stats"/>
+### 📊 GitHub Stats
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <div style="background: #000; border: 2px solid #FF4500; padding: 20px; box-shadow: 0 0 20px #FF4500;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FF4500&text_color=FFD700&bg_color=000000" alt="GitHub Stats" />
+  </div>
+  <div style="background: #000; border: 2px solid #FF4500; padding: 20px; box-shadow: 0 0 20px #FF4500;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&theme=dark&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=000000" alt="Most Used Languages" />
+  </div>
 </div>
 
 ### 🏆 GitHub Trophies
-<div align="center" class="stats-card" style="background: linear-gradient(45deg, #000000, #1a1a1a);
-                                            border: 2px solid #F0DB4F;
-                                            padding: 20px;
-                                            margin: 20px 0;
-                                            clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
-  <img src="https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=onestar&no-frame=true&column=7&title_color=F0DB4F&text_color=F0DB4F&bg_color=000000" alt="trophies"/>
+<div align="center" style="background: #000; border: 2px solid #FF4500; padding: 20px; box-shadow: 0 0 20px #FF4500;">
+  <img src="https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=darkhub&no-frame=true&column=3&color=FFD700&background=000000" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<div align="center" style="margin-top: 50px;
-                          border-top: 2px solid #F0DB4F;
-                          padding-top: 20px;">
-  <i style="color: #F0DB4F; text-shadow: 0 0 5px #F0DB4F;">Happy Coding!</i> 🎮
-  
+<div align="center" style="color: #FFD700; margin-top: 50px;">
+  <i>Happy Coding in the Cyber World!</i> 🎮<br>
   ⭐️ From [Hawkli-1994](https://github.com/hawkli-1994)
 </div>
