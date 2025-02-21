@@ -200,18 +200,30 @@ h3, h2 {
 
 ### 📊 GitHub Stats
 
-<div align="center" class="stats-card">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&title_color=F0DB4F&icon_color=F0DB4F&border_color=F0DB4F&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&theme=vision-friendly-dark&title_color=F0DB4F&border_color=F0DB4F&bg_color=000000"/>
+<div align="center" class="stats-card" style="background: linear-gradient(45deg, #000000, #1a1a1a);
+                                            border: 2px solid #F0DB4F;
+                                            padding: 20px;
+                                            margin: 20px 0;
+                                            clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=F0DB4F&icon_color=F0DB4F&text_color=F0DB4F&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&hide_border=true&theme=dark&title_color=F0DB4F&text_color=F0DB4F&bg_color=000000"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&theme=dark&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F&border=F0DB4F" alt="streak-stats">
+<div align="center" class="stats-card" style="background: linear-gradient(45deg, #000000, #1a1a1a);
+                                            border: 2px solid #F0DB4F;
+                                            padding: 20px;
+                                            margin: 20px 0;
+                                            clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&hide_border=true&background=000000&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F&sideLabels=F0DB4F&currStreakNum=F0DB4F&sideNums=F0DB4F&dates=F0DB4F" alt="streak-stats"/>
 </div>
 
 ### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=darkhub&column=7&title_color=F0DB4F&theme_color=F0DB4F" alt="trophies">
+<div align="center" class="stats-card" style="background: linear-gradient(45deg, #000000, #1a1a1a);
+                                            border: 2px solid #F0DB4F;
+                                            padding: 20px;
+                                            margin: 20px 0;
+                                            clip-path: polygon(0 15px, 15px 0, calc(100% - 15px) 0, 100% 15px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 15px 100%, 0 calc(100% - 15px));">
+  <img src="https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=onestar&no-frame=true&column=7&title_color=F0DB4F&text_color=F0DB4F&bg_color=000000" alt="trophies"/>
 </div>
 
 ---
