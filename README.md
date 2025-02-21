@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | Cloud Native Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
+  <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=F0DB4F&style=flat" alt="profile-views">
   <img src="https://img.shields.io/github/followers/hawkli-1994?style=social" alt="followers">
   <img src="https://img.shields.io/github/stars/hawkli-1994?style=social" alt="stars">
 </p>
@@ -55,23 +55,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&title_color=F0DB4F&icon_color=F0DB4F&border_color=F0DB4F"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&theme=vision-friendly-dark&title_color=F0DB4F&border_color=F0DB4F"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&theme=tokyonight" alt="streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawkli-1994&theme=dark&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F&border=F0DB4F" alt="streak-stats">
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=nord&column=7" alt="trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=darkhub&column=7&title_color=F0DB4F&theme_color=F0DB4F" alt="trophies">
 </div>
 
 ---
 
 <div align="center">
-  <i>Happy Coding!</i> 😊
+  <i>Happy Coding!</i> 🎮
   
   ⭐️ From [Hawkli-1994](https://github.com/hawkli-1994)
 </div>
