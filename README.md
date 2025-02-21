@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=FF4500&background=000000&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Cloud+Native+Enthusiast+%7C+Open+Source+Contributor" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=FF4500&background=000000&center=true&vCenter=true&width=1200&height=80&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Cloud+Native+Enthusiast+%7C+Open+Source+Contributor" alt="Title" />
 </div>
 
 <div align="center">
