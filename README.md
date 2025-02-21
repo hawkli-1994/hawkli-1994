@@ -1,21 +1,103 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <div style="background: linear-gradient(45deg, #000000, #1a1a1a);
+              border: 2px solid #F0DB4F;
+              border-radius: 10px;
+              padding: 20px;
+              margin: 20px 0;
+              box-shadow: 0 0 20px #F0DB4F;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=35&duration=4000&pause=1000&color=F0DB4F&background=000000&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Hawkli!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </div>
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | Cloud Native Enthusiast | Open Source Contributor</h3>
+<h3 align="center" style="color: #F0DB4F;
+                         text-shadow: 0 0 10px #F0DB4F;
+                         font-family: 'Source Code Pro', monospace;
+                         letter-spacing: 2px;
+                         margin: 30px 0;">
+  🚀 Full Stack Developer | Cloud Native Enthusiast | Open Source Contributor
+</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=F0DB4F&style=flat" alt="profile-views">
-  <img src="https://img.shields.io/github/followers/hawkli-1994?style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/hawkli-1994?style=social" alt="stars">
-</p>
+<div align="center" style="background: #000;
+                          border: 1px solid #F0DB4F;
+                          border-radius: 5px;
+                          padding: 10px;
+                          margin: 20px 0;
+                          animation: glitch 2s infinite;">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=F0DB4F&style=flat" alt="profile-views">
+    <img src="https://img.shields.io/github/followers/hawkli-1994?style=social" alt="followers">
+    <img src="https://img.shields.io/github/stars/hawkli-1994?style=social" alt="stars">
+  </p>
+</div>
+
+<style>
+@keyframes glitch {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    transform: translate(2px, 2px);
+  }
+  80% {
+    transform: translate(2px, -2px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+@keyframes neon {
+  from {
+    text-shadow: 0 0 10px #F0DB4F,
+                 0 0 20px #F0DB4F,
+                 0 0 30px #F0DB4F;
+  }
+  to {
+    text-shadow: 0 0 5px #F0DB4F,
+                 0 0 15px #F0DB4F,
+                 0 0 25px #F0DB4F;
+  }
+}
+
+h3, h2 {
+  animation: neon 1.5s ease-in-out infinite alternate;
+}
+
+.tech-stack {
+  background: rgba(0, 0, 0, 0.8);
+  border: 1px solid #F0DB4F;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px 0;
+  box-shadow: 0 0 15px rgba(240, 219, 79, 0.3);
+}
+
+.stats-card {
+  transition: all 0.3s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px #F0DB4F;
+}
+</style>
 
 ### 👨‍💻 About Me
+
+<div class="tech-stack">
 
 - 🔭 I'm currently working on cloud-native applications and microservices
 - 🌱 I'm passionate about DevOps, Kubernetes, and distributed systems
 - 💡 I love exploring new technologies and contributing to open source
--  How to reach me: [![Email](https://img.shields.io/badge/Email-hawkli--1994@outlook.com-blue?style=flat-square&logo=gmail)](mailto:hawkli-1994@outlook.com)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-hawkli--1994@outlook.com-F0DB4F?style=flat-square&logo=gmail)](mailto:hawkli-1994@outlook.com)
+
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -54,9 +136,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&title_color=F0DB4F&icon_color=F0DB4F&border_color=F0DB4F"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&theme=vision-friendly-dark&title_color=F0DB4F&border_color=F0DB4F"/>
+<div align="center" class="stats-card">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&title_color=F0DB4F&icon_color=F0DB4F&border_color=F0DB4F&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&langs_count=8&theme=vision-friendly-dark&title_color=F0DB4F&border_color=F0DB4F&bg_color=000000"/>
 </div>
 
 <div align="center">
@@ -70,8 +152,10 @@
 
 ---
 
-<div align="center">
-  <i>Happy Coding!</i> 🎮
+<div align="center" style="margin-top: 50px;
+                          border-top: 2px solid #F0DB4F;
+                          padding-top: 20px;">
+  <i style="color: #F0DB4F; text-shadow: 0 0 5px #F0DB4F;">Happy Coding!</i> 🎮
   
   ⭐️ From [Hawkli-1994](https://github.com/hawkli-1994)
 </div>
