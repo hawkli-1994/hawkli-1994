@@ -1,5 +1,5 @@
 # Hawkli
-MSCS Student at Northern Arizona University
+M.S. Student in Computer Science at Northern Arizona University
 
 ---
 
