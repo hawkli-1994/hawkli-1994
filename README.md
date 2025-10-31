@@ -16,11 +16,11 @@
 
 Passionate full-stack developer with expertise in building scalable web applications and cloud-native solutions. I love contributing to open source and exploring emerging technologies.
 
-- 🔭 Currently working on **distributed systems** and **cloud architectures**
+- 🎓 Currently pursuing **MSCS at Northern Arizona University**
+- 🔭 Working on **distributed systems** and **cloud architectures**
 - 🌱 Learning **machine learning** and **advanced DevOps practices**
 - 👯 Open to **collaborate** on interesting open source projects
 - 💬 Ask me about **React, Node.js, and cloud infrastructure**
-- 📫 Reach me at **[hawkli.dev@example.com](mailto:hawkli.dev@example.com)**
 
 ## 🛠️ Tech Stack
 
@@ -80,12 +80,12 @@ Passionate full-stack developer with expertise in building scalable web applicat
 
 [![Hawkli's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hawkli-1994&theme=github-dark-dimmed)](https://github.com/hawkli-1994)
 
-## 🤝 Connect With Me
+<!-- ## 🤝 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/hawkli](https://linkedin.com/in/hawkli)
 - **Twitter**: [@hawkli_dev](https://twitter.com/hawkli_dev)
 - **Portfolio**: [hawkli.dev](https://hawkli.dev)
-- **Email**: [hawkli.dev@example.com](mailto:hawkli.dev@example.com)
+- **Email**: [hawkli.dev@example.com](mailto:hawkli.dev@example.com) -->
 
 ## 📝 Blog Posts
 
