@@ -47,14 +47,18 @@ PostgreSQL, MongoDB, Redis, MySQL
   <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=FFD700&style=flat" alt="profile-views">
   <img src="https://img.shields.io/github/followers/hawkli-1994?style=social&label=Follow" alt="followers">
   <img src="https://img.shields.io/github/stars/hawkli-1994?style=social&label=Stars" alt="stars">
+  <img src="https://img.shields.io/github/repo-size/hawkli-1994/hawkli-1994?color=FFD700&label=Repo%20Size&style=flat" alt="repo-size">
+  <img src="https://img.shields.io/github/commit-activity/y/hawkli-1994?color=FF4500&label=Commit%20Activity&style=flat" alt="commit-activity">
+  <img src="https://img.shields.io/github/last-commit/hawkli-1994/hawkli-1994?color=FFD700&label=Last%20Commit&style=flat" alt="last-commit">
 </div>
 
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=radical&no-frame=true&column=3)
-
-### GitHub Statistics
-![Hawkli's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&theme=radical&hide_border=true)
+### GitHub Repository Stats
+<div align="center">
+  <img src="https://img.shields.io/github/forks/hawkli-1994/hawkli-1994?style=social&label=Forks" alt="forks">
+  <img src="https://img.shields.io/github/watchers/hawkli-1994/hawkli-1994?style=social&label=Watchers" alt="watchers">
+  <img src="https://img.shields.io/github/issues/hawkli-1994/hawkli-1994?color=FF4500&style=flat" alt="issues">
+  <img src="https://img.shields.io/github/license/hawkli-1994/hawkli-1994?color=FFD700&style=flat" alt="license">
+</div>
 
 ---
 
