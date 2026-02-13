@@ -43,9 +43,18 @@ PostgreSQL, MongoDB, Redis, MySQL
 
 ## GitHub Activity
 
-![Hawkli's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hawkli-1994&label=Profile%20views&color=FFD700&style=flat" alt="profile-views">
+  <img src="https://img.shields.io/github/followers/hawkli-1994?style=social&label=Follow" alt="followers">
+  <img src="https://img.shields.io/github/stars/hawkli-1994?style=social&label=Stars" alt="stars">
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hawkli-1994&theme=radical&no-frame=true&column=3)
+
+### GitHub Statistics
+![Hawkli's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkli-1994&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkli-1994&layout=compact&theme=radical&hide_border=true)
 
 ---
 
