@@ -45,7 +45,7 @@ This direction combines my existing work across GPU monitoring, Kubernetes opera
 | **Core Agent System** | [SwarmMind](https://github.com/rongxinzy/SwarmMind), [deer-flow](https://github.com/hawkli-1994/deer-flow) | Multi-agent systems, long-horizon task orchestration, agent teams |
 | **Inference Infrastructure** | [rinference-operator](https://github.com/hawkli-1994/rinference-operator), [vllm_test_tool](https://github.com/hawkli-1994/vllm_test_tool) | Kubernetes inference workloads, vLLM lifecycle testing, runtime automation |
 | **GPU Systems** | [go-radeontop](https://github.com/hawkli-1994/go-radeontop), [gpu_tools](https://github.com/hawkli-1994/gpu_tools), [go-sensors-parser](https://github.com/hawkli-1994/go-sensors-parser), [k8s-gpu-hotremove](https://github.com/hawkli-1994/k8s-gpu-hotremove) | GPU telemetry, hardware signals, monitoring libraries, scheduling inputs |
-| **Agent Control Plane** | [go-sui-mcp](https://github.com/hawkli-1994/go-sui-mcp), [mcp4meme](https://github.com/hawkli-1994/mcp4meme) | MCP servers, agent-tool interfaces, external system control |
+| **Agent Control Plane** | [mcp4meme](https://github.com/hawkli-1994/mcp4meme) | MCP servers, agent-tool interfaces, external system control |
 | **Knowledge Output** | [deerflow-book](https://github.com/hawkli-1994/deerflow-book), [kata-container-skill](https://github.com/hawkli-1994/kata-container-skill), [k8s-operator-skills](https://github.com/hawkli-1994/k8s-operator-skills) | Deep technical writing, source-code study, AI/cloud-native education |
 
 ---
@@ -67,12 +67,6 @@ Automation for repeated vLLM service lifecycle testing: container startup, monit
 ### [go-radeontop](https://github.com/hawkli-1994/go-radeontop)
 
 GPU monitoring library for AI inference systems. Useful for tracking GPU utilization, investigating runtime bottlenecks, and feeding scheduling decisions.
-
-### [go-sui-mcp](https://github.com/hawkli-1994/go-sui-mcp)
-
-A Go control-plane server that exposes Sui client operations through APIs. Part of my broader work on MCP-style agent control surfaces.
-
----
 
 ## Stack
 
